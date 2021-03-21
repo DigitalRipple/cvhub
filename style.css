@@ -50,7 +50,7 @@ html, body {
 	margin: 0 auto 1em auto;
 }
 section.banner {
-	background: linear-gradient(to bottom, transparent, var(--primary), var(--primary)), url("fireflies.gif") no-repeat;
+	background: linear-gradient(to bottom, transparent, var(--primary), var(--primary)), url("lotus.gif") no-repeat;
 	background-size: auto calc(100vw);
 	background-attachment: fixed;
 	min-height: 50vw;
